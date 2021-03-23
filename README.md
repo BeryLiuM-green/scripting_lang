@@ -1,1 +1,1 @@
-# scripting_lang
+# Implement script language from book.
